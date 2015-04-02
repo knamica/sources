@@ -8,4 +8,4 @@
 の数字を曲数の数に変更します。
 6. インスペクタのMain、IntroのそれぞれのAudioClipにオーディオクリップを割り当てていきます。イントロ付きBGMの場合イントロ部分をIntroに、メインループ部分をMainに貼り付けてください。同じ楽曲は同じ数字になるように割り当ててください。
 7. イントロ付きBGMはディレイタイムを設定してください。単にイントロの再生時間にすると恐らくズレるので適宜調整してください。
-![参考](https://github.com/knamica/sources/edit/master/capture1.png)
+![参考](https://github.com/knamica/sources/capture1.png)
